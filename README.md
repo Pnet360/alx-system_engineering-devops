@@ -1,1 +1,2 @@
-Am learning to code with C
+# alx-system_engineering-devops
+Shell, permissions
